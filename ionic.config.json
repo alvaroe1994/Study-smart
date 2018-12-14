@@ -1,0 +1,7 @@
+{
+  "name": "study-smart",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
